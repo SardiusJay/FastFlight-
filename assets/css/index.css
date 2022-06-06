@@ -136,7 +136,7 @@ header .icons i:hover {
 
 .home {
   background: linear-gradient(30deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.3)),
-    url(https://www.istockphoto.com/photo/early-morning-at-the-airport-gm511870810-86864651);
+    url(https://mixkit.imgix.net/videos/preview/mixkit-airplane-landing-in-illuminated-airport-tracks-7374-0.jpg?q=80&auto=format%2Ccompress&w=460);
   background-size: cover;
   background-repeat: repeat;
   background-size: cover;
@@ -185,25 +185,6 @@ header .icons i:hover {
   margin-top: 10px;
 }
 
-/* .home .discover {
-  align-items: center;
-  margin-left: auto;
-  margin-right: auto;
-  font-size: 26px;
-  background-color: #04566e;
-  width: 20%;
-  border-radius: 10px;
-  text-align: center;
-  margin-top: 70px;
-}
-
-.home .discover:hover {
-  background-color: #022831;
-}
-
-.home .discover span {
-  color: #fff;
-} */
 
 /* SERVICES STARTED */
 .section {
